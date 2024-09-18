@@ -159,3 +159,4 @@
 | ![](https://avatars.steamstatic.com/8257abe7d9202f99594e65bd6776211b7cbcd25a.jpg) | petrichor1228           | [76561199070442813](https://steamcommunity.com/profiles/76561199070442813/) | ✅           | 2023-02-16 15:02:41 |          |
 | ![](https://avatars.steamstatic.com/7b3137325f258c22f9ea50a1bb677da7060b670d.jpg) | Mikasa                  | [76561199295705604](https://steamcommunity.com/profiles/76561199295705604/) | ✅           | 2023-05-27 06:22:24 |          |
 | ![](https://avatars.steamstatic.com/a9a2727bd73ec4c7903d458bd732d48cc3f225f1.jpg) | 今天我温柔不了                 | [76561199168410832](https://steamcommunity.com/profiles/76561199168410832/) | ✅           | 2021-07-30 07:21:11 |          |
+| ![](https://avatars.steamstatic.com/ad4a9e3d076171df234f2da621c09c9d0615fdcc.jpg) | DQ                      | [76561199300151091](https://steamcommunity.com/profiles/76561199300151091/) | ✅           | 2024-09-17 11:26:45 |          |
