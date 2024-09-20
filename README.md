@@ -12,7 +12,7 @@
 
 | Avatar                                                                            | Name                    | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/44b65fa70c3df3819aa00d7b9cb13a40ac7cc2dc.jpg) | 毛晓彤                     | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
+| ![](https://avatars.steamstatic.com/44b65fa70c3df3819aa00d7b9cb13a40ac7cc2dc.jpg) | 公主                      | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
 | ![](https://avatars.steamstatic.com/205d40ba481ef4a69ef0bad0706507d4abc07612.jpg) | 偷看魔王打洞被魔王按在电机上口到失神      | [76561199065699885](https://steamcommunity.com/profiles/76561199065699885/) | ✅           | 2020-07-16 10:34:53 |          |
 | ![](https://avatars.steamstatic.com/e6d6c39c40c2c0cd34d763abf158ec22ea76d32e.jpg) | 卸载APEX，迎美好生活            | [76561198283104929](https://steamcommunity.com/profiles/76561198283104929/) | ✅           | 2022-07-27 12:18:24 |          |
 | ![](https://avatars.steamstatic.com/fa8d546cae9aed11f26ada01b5a9d4df1d271422.jpg) | 清朝老兵                    | [76561198977723863](https://steamcommunity.com/profiles/76561198977723863/) | ✅           | 2024-01-26 01:08:39 |          |
