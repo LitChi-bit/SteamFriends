@@ -167,3 +167,4 @@
 | ![](https://avatars.steamstatic.com/1d639aaee5fb066d138277689c31f34d26c77383.jpg) | 💢stasik💢                | [76561198842603734](https://steamcommunity.com/profiles/76561198842603734/) | ✅           | 2024-10-15 13:50:30 |          |
 | ![](https://avatars.steamstatic.com/148ff422f2245ab66abfeabf3f7506861d6b703b.jpg) | 玛卡巴卡                    | [76561198889683413](https://steamcommunity.com/profiles/76561198889683413/) | ✅           | 2024-11-12 13:29:07 |          |
 | ![](https://avatars.steamstatic.com/6889e542266ff1eca9c32d7f405a723a0e19f756.jpg) | 香川恵り                    | [76561198979412290](https://steamcommunity.com/profiles/76561198979412290/) | ✅           | 2024-12-16 06:13:34 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | jkgzvuyyp               | [76561199671273142](https://steamcommunity.com/profiles/76561199671273142/) | ✅           | 2025-01-21 08:08:53 |          |
