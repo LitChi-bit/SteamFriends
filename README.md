@@ -168,3 +168,4 @@
 | ![](https://avatars.steamstatic.com/148ff422f2245ab66abfeabf3f7506861d6b703b.jpg) | 玛卡巴卡                    | [76561198889683413](https://steamcommunity.com/profiles/76561198889683413/) | ✅           | 2024-11-12 13:29:07 |          |
 | ![](https://avatars.steamstatic.com/6889e542266ff1eca9c32d7f405a723a0e19f756.jpg) | 香川恵り                    | [76561198979412290](https://steamcommunity.com/profiles/76561198979412290/) | ✅           | 2024-12-16 06:13:34 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | jkgzvuyyp               | [76561199671273142](https://steamcommunity.com/profiles/76561199671273142/) | ✅           | 2025-01-21 08:08:53 |          |
+| ![](https://avatars.steamstatic.com/008bbb677040f8b7dabd3e25ad9e1bf8d747cbd5.jpg) | A9217A                  | [76561199488147251](https://steamcommunity.com/profiles/76561199488147251/) | ✅           | 2025-02-04 09:24:03 |          |
