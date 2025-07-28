@@ -172,3 +172,4 @@
 | ![](https://avatars.steamstatic.com/781b02de07a375476deb3ea7d9d6f3feba1c4a35.jpg) | 特雷森学院第一种马               | [76561199137585326](https://steamcommunity.com/profiles/76561199137585326/) | ✅           | 2025-04-02 13:27:59 |          |
 | ![](https://avatars.steamstatic.com/79b3d78b82986bfb637b3ab811ae197df5dde10e.jpg) | 哥们来了                    | [76561198922255907](https://steamcommunity.com/profiles/76561198922255907/) | ✅           | 2025-04-26 08:09:35 |          |
 | ![](https://avatars.steamstatic.com/bed8f6d607a09681ab235c2f6d28900971846e7e.jpg) | 什么年代还在传统内卷              | [76561199634189813](https://steamcommunity.com/profiles/76561199634189813/) | ✅           | 2025-05-26 06:17:10 |          |
+| ![](https://avatars.steamstatic.com/d71efd60bb304905cf97ee425b82d7ba3fffdcf9.jpg) | 初音ミク❣吴天【Wu_Tian】        | [76561198346584455](https://steamcommunity.com/profiles/76561198346584455/) | ✅           | 2025-07-27 04:15:56 |          |
