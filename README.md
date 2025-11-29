@@ -177,3 +177,4 @@
 | ![](https://avatars.steamstatic.com/8b84adbdb97b0f57819150d36cc300715d8ba5c5.jpg) | 知否知否0v0                | [76561198171934486](https://steamcommunity.com/profiles/76561198171934486/) | ✅           | 2025-08-02 04:49:17 |          |
 | ![](https://avatars.steamstatic.com/a3cb23f1fdc80de624ed9d3da531db8215e13cf0.jpg) | Orchid                 | [76561197991035405](https://steamcommunity.com/profiles/76561197991035405/) | ❌           | 2025-08-02 04:49:16 |          |
 | ![](https://avatars.steamstatic.com/ee5cc428258a2f7f5775ae66f8bbcde744738e44.jpg) | Yolo                   | [76561198935765583](https://steamcommunity.com/profiles/76561198935765583/) | ✅           | 2025-08-09 09:44:26 |          |
+| ![](https://avatars.steamstatic.com/41f746b736502ae0836c6552360e8a26f2c8cb0b.jpg) | 路小雨                    | [76561199574076759](https://steamcommunity.com/profiles/76561199574076759/) | ✅           | 2025-11-28 13:10:31 |          |
