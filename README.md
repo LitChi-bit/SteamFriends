@@ -181,3 +181,4 @@
 | ![](https://avatars.steamstatic.com/54eefb2c442bedf717e2a3829a5ee3b170b713a2.jpg) | 比色卡                    | [76561199082966103](https://steamcommunity.com/profiles/76561199082966103/) | ✅           | 2026-01-02 15:56:19 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | GAGA                   | [76561199417742908](https://steamcommunity.com/profiles/76561199417742908/) | ✅           | 2026-01-19 02:17:02 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 冰心                     | [76561199306815798](https://steamcommunity.com/profiles/76561199306815798/) | ✅           | 2026-01-22 07:40:25 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | davidporter9332        | [76561198747357577](https://steamcommunity.com/profiles/76561198747357577/) | ✅           | 2026-03-02 04:02:09 |          |
