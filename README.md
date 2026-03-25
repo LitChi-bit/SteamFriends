@@ -12,7 +12,7 @@
 
 | Avatar                                                                            | Name                   | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/e2e07fab0491cf95875eed8e2b959ae5ad890248.jpg) | 毛晓彤                    | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
+| ![](https://avatars.steamstatic.com/e2e07fab0491cf95875eed8e2b959ae5ad890248.jpg) | 我必须要哈气                 | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
 | ![](https://avatars.steamstatic.com/3f1ce93b7e8f28fa8d53a9ac8811fe3a767065dc.jpg) | 偷看魔王打洞被魔王按在电机上口到失神     | [76561199065699885](https://steamcommunity.com/profiles/76561199065699885/) | ✅           | 2020-07-16 10:34:53 |          |
 | ![](https://avatars.steamstatic.com/e6d6c39c40c2c0cd34d763abf158ec22ea76d32e.jpg) | Red_Hat                | [76561198283104929](https://steamcommunity.com/profiles/76561198283104929/) | ✅           | 2022-07-27 12:18:24 |          |
 | ![](https://avatars.steamstatic.com/fa8d546cae9aed11f26ada01b5a9d4df1d271422.jpg) | 清朝老兵                   | [76561198977723863](https://steamcommunity.com/profiles/76561198977723863/) | ✅           | 2024-01-26 01:08:39 |          |
@@ -92,7 +92,7 @@
 | ![](https://avatars.steamstatic.com/8025cf283d6c74d5d3daf3dda9a6bc3a9739ad7c.jpg) | 你们给我等着.                | [76561199000594868](https://steamcommunity.com/profiles/76561199000594868/) | ✅           | 2020-08-02 10:25:53 |          |
 | ![](https://avatars.steamstatic.com/1191c81a57194f64acfcda94f0fd0cb94e92eff7.jpg) | 阿洛                     | [76561198839861010](https://steamcommunity.com/profiles/76561198839861010/) | ✅           | 2021-02-22 07:51:00 |          |
 | ![](https://avatars.steamstatic.com/8bb97c0863f2e596f56c7415e946ac380412a642.jpg) | 走出你的舒适圈让我进去            | [76561198403713237](https://steamcommunity.com/profiles/76561198403713237/) | ✅           | 2023-02-19 07:38:16 |          |
-| ![](https://avatars.steamstatic.com/5fea668694c95ff82c2d9cc2b2afdb06a9d2bbb4.jpg) | EL PSY KONGROO         | [76561198890013513](https://steamcommunity.com/profiles/76561198890013513/) | ✅           | 2023-08-16 06:15:36 |          |
+| ![](https://avatars.steamstatic.com/5fea668694c95ff82c2d9cc2b2afdb06a9d2bbb4.jpg) | 一個幸運的人                 | [76561198890013513](https://steamcommunity.com/profiles/76561198890013513/) | ✅           | 2023-08-16 06:15:36 |          |
 | ![](https://avatars.steamstatic.com/bd3182b939d06c1cac00e4f6fe57dfa3e8204794.jpg) | 桐sir                   | [76561198365663916](https://steamcommunity.com/profiles/76561198365663916/) | ✅           | 2020-09-23 07:12:16 |          |
 | ![](https://avatars.steamstatic.com/2b67c19a26e549753bf7fd3890f2eedce5a09222.jpg) | 黛黛喜欢仓鼠                 | [76561199028828985](https://steamcommunity.com/profiles/76561199028828985/) | ✅           | 2023-10-16 11:28:29 |          |
 | ![](https://avatars.steamstatic.com/41f1e57757cd9354376f9c1b879341675a3e0840.jpg) | 哈基米工程                  | [76561198812852599](https://steamcommunity.com/profiles/76561198812852599/) | ✅           | 2020-12-27 13:31:20 |          |
