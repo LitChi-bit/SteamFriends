@@ -12,7 +12,7 @@
 
 | Avatar                                                                            | Name                   | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/4ba17b4246e54c9994de625d303cc0bd44c72f9e.jpg) | 我必须要哈气                 | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
+| ![](https://avatars.steamstatic.com/4ba17b4246e54c9994de625d303cc0bd44c72f9e.jpg) | 可可小姐                   | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
 | ![](https://avatars.steamstatic.com/3f1ce93b7e8f28fa8d53a9ac8811fe3a767065dc.jpg) | 兄弟跟我同甘共苦我当男同甘苦兄弟       | [76561199065699885](https://steamcommunity.com/profiles/76561199065699885/) | ✅           | 2020-07-16 10:34:53 |          |
 | ![](https://avatars.steamstatic.com/e6d6c39c40c2c0cd34d763abf158ec22ea76d32e.jpg) | Red_Hat                | [76561198283104929](https://steamcommunity.com/profiles/76561198283104929/) | ✅           | 2022-07-27 12:18:24 |          |
 | ![](https://avatars.steamstatic.com/fa8d546cae9aed11f26ada01b5a9d4df1d271422.jpg) | 清朝老兵                   | [76561198977723863](https://steamcommunity.com/profiles/76561198977723863/) | ✅           | 2024-01-26 01:08:39 |          |
