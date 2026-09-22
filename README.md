@@ -12,7 +12,7 @@
 
 | Avatar                                                                            | Name                   | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/4ba17b4246e54c9994de625d303cc0bd44c72f9e.jpg) | 可可小姐                   | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
+| ![](https://avatars.steamstatic.com/1f1cf3bcecc865568aac414d8b32aef1dbefe2d9.jpg) | 武媚                     | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
 | ![](https://avatars.steamstatic.com/3f1ce93b7e8f28fa8d53a9ac8811fe3a767065dc.jpg) | 兄弟跟我同甘共苦我当男同甘苦兄弟       | [76561199065699885](https://steamcommunity.com/profiles/76561199065699885/) | ✅           | 2020-07-16 10:34:53 |          |
 | ![](https://avatars.steamstatic.com/e6d6c39c40c2c0cd34d763abf158ec22ea76d32e.jpg) | Red_Hat                | [76561198283104929](https://steamcommunity.com/profiles/76561198283104929/) | ✅           | 2022-07-27 12:18:24 |          |
 | ![](https://avatars.steamstatic.com/fa8d546cae9aed11f26ada01b5a9d4df1d271422.jpg) | 清朝老兵                   | [76561198977723863](https://steamcommunity.com/profiles/76561198977723863/) | ✅           | 2024-01-26 01:08:39 |          |
@@ -82,7 +82,7 @@
 | ![](https://avatars.steamstatic.com/049190d0a2410fdf944f81b2784bebf7ba014a81.jpg) | 夊弋AI                   | [76561198194869695](https://steamcommunity.com/profiles/76561198194869695/) | ✅           | 2024-04-09 03:34:00 |          |
 | ![](https://avatars.steamstatic.com/39be861e90f8701218adcff09888a0ecc5c144eb.jpg) | 你在干嘛                   | [76561198863902711](https://steamcommunity.com/profiles/76561198863902711/) | ✅           | 2024-09-04 04:56:09 |          |
 | ![](https://avatars.steamstatic.com/58c40095bbc08b27a4e116f18021ede0960f11bb.jpg) | Nico Robin             | [76561198425662014](https://steamcommunity.com/profiles/76561198425662014/) | ✅           | 2024-04-15 02:05:14 |          |
-| ![](https://avatars.steamstatic.com/bfbc143fa44ca919688aef9d18d169bcd1012512.jpg) | Roxykiki1337           | [76561198452639568](https://steamcommunity.com/profiles/76561198452639568/) | ✅           | 2023-08-04 06:00:24 |          |
+| ![](https://avatars.steamstatic.com/9506f023708d1231074a340dbf1298cd64659490.jpg) | Roxykiki1337           | [76561198452639568](https://steamcommunity.com/profiles/76561198452639568/) | ✅           | 2023-08-04 06:00:24 |          |
 | ![](https://avatars.steamstatic.com/97e463a36f2693f6158631fb69c4074694019c20.jpg) | wdudg                  | [76561198893989280](https://steamcommunity.com/profiles/76561198893989280/) | ✅           | 2020-08-15 09:05:42 |          |
 | ![](https://avatars.steamstatic.com/205d40ba481ef4a69ef0bad0706507d4abc07612.jpg) | ℙ𝟙𝕟𝕂 𝔾𝕌𝕐               | [76561198288318070](https://steamcommunity.com/profiles/76561198288318070/) | ✅           | 2024-05-18 05:38:45 |          |
 | ![](https://avatars.steamstatic.com/3f12c15deef8c8aab641abebaacdaf286749d4c4.jpg) | ☆Kayaba_Akihiko☆       | [76561198381722119](https://steamcommunity.com/profiles/76561198381722119/) | ✅           | 2024-04-18 17:20:35 |          |
