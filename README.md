@@ -12,7 +12,7 @@
 
 | Avatar                                                                            | Name                   | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/1f1cf3bcecc865568aac414d8b32aef1dbefe2d9.jpg) | 武媚                     | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
+| ![](https://avatars.steamstatic.com/68c1e84d4783231c4669a14a3528f1785269e0ff.jpg) | 武媚                     | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
 | ![](https://avatars.steamstatic.com/3f1ce93b7e8f28fa8d53a9ac8811fe3a767065dc.jpg) | 兄弟跟我同甘共苦我当男同甘苦兄弟       | [76561199065699885](https://steamcommunity.com/profiles/76561199065699885/) | ✅           | 2020-07-16 10:34:53 |          |
 | ![](https://avatars.steamstatic.com/e6d6c39c40c2c0cd34d763abf158ec22ea76d32e.jpg) | Red_Hat                | [76561198283104929](https://steamcommunity.com/profiles/76561198283104929/) | ✅           | 2022-07-27 12:18:24 |          |
 | ![](https://avatars.steamstatic.com/fa8d546cae9aed11f26ada01b5a9d4df1d271422.jpg) | 清朝老兵                   | [76561198977723863](https://steamcommunity.com/profiles/76561198977723863/) | ✅           | 2024-01-26 01:08:39 |          |
@@ -87,7 +87,7 @@
 | ![](https://avatars.steamstatic.com/205d40ba481ef4a69ef0bad0706507d4abc07612.jpg) | ℙ𝟙𝕟𝕂 𝔾𝕌𝕐               | [76561198288318070](https://steamcommunity.com/profiles/76561198288318070/) | ✅           | 2024-05-18 05:38:45 |          |
 | ![](https://avatars.steamstatic.com/3f12c15deef8c8aab641abebaacdaf286749d4c4.jpg) | ☆Kayaba_Akihiko☆       | [76561198381722119](https://steamcommunity.com/profiles/76561198381722119/) | ✅           | 2024-04-18 17:20:35 |          |
 | ![](https://avatars.steamstatic.com/272ffef991d4a9310249af4ae52f2a4ded261700.jpg) | Ten Years old Cheater  | [76561198172734665](https://steamcommunity.com/profiles/76561198172734665/) | ✅           | 2023-09-29 11:24:19 |          |
-| ![](https://avatars.steamstatic.com/912b866943073802d00c5d0a7328aba2be63e994.jpg) | 渔大王                    | [76561198020511331](https://steamcommunity.com/profiles/76561198020511331/) | ✅           | 2023-10-05 10:49:20 |          |
+| ![](https://avatars.steamstatic.com/912b866943073802d00c5d0a7328aba2be63e994.jpg) | yuuu                   | [76561198020511331](https://steamcommunity.com/profiles/76561198020511331/) | ✅           | 2023-10-05 10:49:20 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 瞧我接化发                  | [76561198812254505](https://steamcommunity.com/profiles/76561198812254505/) | ❌           | 2023-12-25 13:49:15 |          |
 | ![](https://avatars.steamstatic.com/8025cf283d6c74d5d3daf3dda9a6bc3a9739ad7c.jpg) | 你们给我等着.                | [76561199000594868](https://steamcommunity.com/profiles/76561199000594868/) | ✅           | 2020-08-02 10:25:53 |          |
 | ![](https://avatars.steamstatic.com/1191c81a57194f64acfcda94f0fd0cb94e92eff7.jpg) | 阿洛                     | [76561198839861010](https://steamcommunity.com/profiles/76561198839861010/) | ✅           | 2021-02-22 07:51:00 |          |
