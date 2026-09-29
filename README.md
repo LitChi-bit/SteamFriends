@@ -12,7 +12,7 @@
 
 | Avatar                                                                            | Name                   | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/68c1e84d4783231c4669a14a3528f1785269e0ff.jpg) | 武媚                     | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
+| ![](https://avatars.steamstatic.com/abfe316d214b0f5f1af70c78dd26859877376fb6.jpg) | 武媚                     | [76561198839245110](https://steamcommunity.com/profiles/76561198839245110/) | ✅           | 2020-08-20 08:10:40 |          |
 | ![](https://avatars.steamstatic.com/3f1ce93b7e8f28fa8d53a9ac8811fe3a767065dc.jpg) | 兄弟跟我同甘共苦我当男同甘苦兄弟       | [76561199065699885](https://steamcommunity.com/profiles/76561199065699885/) | ✅           | 2020-07-16 10:34:53 |          |
 | ![](https://avatars.steamstatic.com/e6d6c39c40c2c0cd34d763abf158ec22ea76d32e.jpg) | Red_Hat                | [76561198283104929](https://steamcommunity.com/profiles/76561198283104929/) | ✅           | 2022-07-27 12:18:24 |          |
 | ![](https://avatars.steamstatic.com/fa8d546cae9aed11f26ada01b5a9d4df1d271422.jpg) | 清朝老兵                   | [76561198977723863](https://steamcommunity.com/profiles/76561198977723863/) | ✅           | 2024-01-26 01:08:39 |          |
@@ -182,7 +182,7 @@
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | GAGA                   | [76561199417742908](https://steamcommunity.com/profiles/76561199417742908/) | ✅           | 2026-01-19 02:17:02 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 冰心                     | [76561199306815798](https://steamcommunity.com/profiles/76561199306815798/) | ✅           | 2026-01-22 07:40:25 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | davidporter9332        | [76561198747357577](https://steamcommunity.com/profiles/76561198747357577/) | ✅           | 2026-03-02 04:02:09 |          |
-| ![](https://avatars.steamstatic.com/8abb36d8c6256b4c05a966b670243a51a9f86065.jpg) | Jansen                 | [76561198210996248](https://steamcommunity.com/profiles/76561198210996248/) | ✅           | 2026-04-03 10:27:43 |          |
+| ![](https://avatars.steamstatic.com/5fd55e8aec52101cb0257fbcb2440560ded0e159.jpg) | Jansen                 | [76561198210996248](https://steamcommunity.com/profiles/76561198210996248/) | ✅           | 2026-04-03 10:27:43 |          |
 | ![](https://avatars.steamstatic.com/bb0a3f11709d71a6e0982bf085b1ba4e472d6878.jpg) | 瓜皮上的糖                  | [76561198292389416](https://steamcommunity.com/profiles/76561198292389416/) | ✅           | 2026-04-05 14:57:49 |          |
 | ![](https://avatars.steamstatic.com/c8702bd852530bf161ed832de49e085ae44ff833.jpg) | 千殇屿                    | [76561198952901488](https://steamcommunity.com/profiles/76561198952901488/) | ✅           | 2026-04-13 14:29:49 |          |
 | ![](https://avatars.steamstatic.com/752eb38c3b0bc6f74708ec2c3d44d00bda41edde.jpg) | eyes                   | [76561198989002930](https://steamcommunity.com/profiles/76561198989002930/) | ✅           | 2026-07-23 04:10:11 |          |
